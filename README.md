@@ -7,8 +7,8 @@ A program that will take several events, from a CSV file and organise them into 
 
 ### Application Overview
 The Web Application (in MVC Spring) developed consists of 2 pages:
-- [Agenda Page to show the Calendar for the Events] (http://localhost:8080/Agenda) (https://i.imgur.com/AI6wH1v.png)
-- [Upload Page to upload the CSV File. ] (http://localhost:8080/fileUploadForm) (https://i.imgur.com/7adJuZb.png)
+- [Agenda Page to show the Calendar for the Events] (http://localhost:8080/Agenda) 
+- [Upload Page to upload the CSV File. ] (http://localhost:8080/fileUploadForm) 
 
 #### Steps
 * The Event Organiser goes to the Upload Page and uploads the csv file which is simply saved on the system. 
@@ -21,7 +21,7 @@ The Web Application (in MVC Spring) developed consists of 2 pages:
 - Data Model Class for the CSV Input - &#x2611;
 - Data Model Class for the Output - &#x2611;
 - Set Time Table (Time Slots) for the Output - &#x2611;
-- Display on a Web Page, in a tabular form, similar to the https://meeting.afrinic.net/afrinic-29/agenda/programme - &#x2611;
+- Display on a Web Page, in a tabular form - &#x2611;
 - Write Error Handling - &#x2611;
 - Write Unit Test Methods - &#x2611;
 - Web Page to upload the CSV File - &#x2611;
@@ -69,7 +69,7 @@ Or
 cd  afrieventsapp
 mvn tomcat7:run
 ```
-If you encounter the following error Java Bind Exception: https://i.imgur.com/FpvUgsg.png
+If you encounter the following error Java Bind Exception: 
 run 
 ```
 pkill -9 -f tomcat
