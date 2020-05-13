@@ -1,0 +1,12 @@
+com/afri/eventmanager/EventsUtils$SessionTime.class
+com/afri/eventmanager/EventTime.class
+com/afri/eventmanager/Event.class
+com/afri/fileupload/UploadFileController.class
+com/afri/events/AgendaController.class
+com/afri/fileupload/FileValidator.class
+com/afri/eventmanager/EventsUtils$TimeFormat.class
+com/afri/eventmanager/ProcessEvents.class
+com/afri/fileupload/UploadedFile.class
+com/afri/events/ExceptionController.class
+com/afri/eventmanager/EventCalendar.class
+com/afri/eventmanager/EventsUtils.class
